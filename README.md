@@ -1,3 +1,3 @@
 # instantpage
 - 如何使用
-- 复制<p><script src="./instantpage.js" type="module"></script></p>放在<p></body></p>标签前
+- 复制"<script src="./instantpage.js" type="module"></script>"放在"</body>"标签前
